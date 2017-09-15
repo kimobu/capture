@@ -21,7 +21,7 @@ if __name__ == '__main__':
         'shell': args.shell,
         'command': args.position,
         'output': args.output,
-        'hostname': 'chironlinux'
+        'hostname': 'localhost'
     }
 
     try:
